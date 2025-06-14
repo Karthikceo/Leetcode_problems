@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Karthikceo/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Karthikceo/Leetcode_problems/tree/master/0412-fizz-buzz) |
+| [3379-score-of-a-string](https://github.com/Karthikceo/Leetcode_problems/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
