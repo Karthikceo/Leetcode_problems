@@ -2,6 +2,6 @@ class Solution:
     def mostWordsFound(self, sentences: List[str]) -> int:
         ans = 0
         for sentence in sentences:
-            temp = sentence.count(" ") + 1  # Number of words is spaces + 1
+            temp = sentence.count(" ") + 1  
             ans = max(ans, temp)
         return ans
