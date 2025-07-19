@@ -6,8 +6,5 @@ class Solution(object):
             return True
         else:
             return False
-        """
-        :type x: int
-        :rtype: bool
-        """
+        
         
